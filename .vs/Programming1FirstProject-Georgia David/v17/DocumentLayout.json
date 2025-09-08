@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W0512995\\source\\repos\\Programming1FirstProject-Georgia David\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BC2ACB-7F57-4488-AFED-75D98CC2757E}|Programming1FirstProject-Georgia David\\Programming1FirstProject-Georgia David.csproj|C:\\Users\\W0512995\\source\\repos\\Programming1FirstProject-Georgia David\\programming1firstproject-georgia david\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BC2ACB-7F57-4488-AFED-75D98CC2757E}|Programming1FirstProject-Georgia David\\Programming1FirstProject-Georgia David.csproj|solutionrelative:programming1firstproject-georgia david\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W0512995\\source\\repos\\Programming1FirstProject-Georgia David\\Programming1FirstProject-Georgia David\\Program.cs",
+              "RelativeDocumentMoniker": "Programming1FirstProject-Georgia David\\Program.cs",
+              "ToolTip": "C:\\Users\\W0512995\\source\\repos\\Programming1FirstProject-Georgia David\\Programming1FirstProject-Georgia David\\Program.cs",
+              "RelativeToolTip": "Programming1FirstProject-Georgia David\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:33:27.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
